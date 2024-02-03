@@ -1,0 +1,1 @@
+print("Mariia Sychova, group 4")
